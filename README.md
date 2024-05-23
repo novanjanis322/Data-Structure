@@ -14,7 +14,7 @@ This repository contains various projects and code snippets related to data stru
 - A simple music player application built with Python by implementing Doubly Linked List.
 
 ### Phone Number Book
-- An application to manage and store phone numbers efficiently using Tree.
+- An application to manage and store phone numbers efficiently using Binary Tree.
 
 ## Languages
 - The primary language used in this repository is Python.
